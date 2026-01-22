@@ -1,6 +1,7 @@
-🗂️ Project Structure
+## 🗂️ Project Structure
+
+```bash
 network-attack-system/
-│
 ├── network-attack-backend/        # FastAPI backend
 │   ├── main.py                    # Main API server
 │   ├── train_model.py             # Model training script
@@ -14,6 +15,7 @@ network-attack-system/
 │
 ├── run.ps1                        # One-click startup script
 └── README.md
+
 
 ⚡ Quick Start (Recommended)
 ✅ Prerequisites
